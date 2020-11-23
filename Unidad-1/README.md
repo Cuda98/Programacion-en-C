@@ -1,1 +1,1 @@
-Esta carpeta contiene todo lo relacionado a las estructuras de control
+Esta carpeta contiene todo lo relacionado a las estructuras condicionales IF y SWITCH CASE
