@@ -18,6 +18,8 @@ int main()
 
     int intento=0;
     int ingreso=0;
+    char caracter;
+    int i=0;
 
 
     printf("\t\nBienvenido al sistema de MercadoLibre, a continuacion ingrese sus datos (0 para salir del sistema)\n\n");
@@ -33,6 +35,7 @@ int main()
         gets(user);
         printf("Ingrese su codigo de acceso: ");    // Primera parte, se piden datos.
         gets(pw);
+
 
         if(strcmp(pw, "0") == 0) // Si se tipea 0, se cierra el programa
             {
