@@ -51,5 +51,16 @@ int main()
         printf("%d, ",array3[i]);
     }
 
+    // ------------------------------ Sumar los elementos del array 1 ----------------------------------- //
+
+    int sumaVector1=0;
+
+    for(int i=0; i<arraySize; i++)
+    {
+        sumaVector1 = sumaVector1 + array1[i]; // 0 = 0 + Contenido de array1 en la posición de i(0)
+    }                                          // 1 = 1 + 2 (array[1]
+                                               // 3 = 3 + 3 (array[2])
+    printf("\nLa suma de elementos del vector1 es de: %d",sumaVector1);
+
     return 0;
 }
