@@ -117,3 +117,19 @@ void insertionSort(int v[], int tam)
         v[j+1] = temp;
     }
 }
+
+int buscarEnVector(int v[], int tam, int busco)
+{
+    int pos = -1;
+
+    for(int i=0; i<tam; i++)
+    {
+        if( v[i] == busco)
+        {
+            pos = i;
+        }
+
+    }
+
+return pos;
+}

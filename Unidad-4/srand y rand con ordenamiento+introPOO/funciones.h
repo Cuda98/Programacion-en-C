@@ -12,6 +12,7 @@ void mostrarVector(int v[], int tam);
 void bubbleSort(int v[], int tam);
 void selectionSort(int v[], int tam);
 void insertionSort(int v[], int tam);
+int buscarEnVector(int v[], int tam, int busco);
 
 
 #endif // FUNCIONES_H_INCLUDED

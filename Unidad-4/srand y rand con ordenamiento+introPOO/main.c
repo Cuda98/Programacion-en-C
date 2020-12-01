@@ -3,11 +3,13 @@
 #include <time.h>
 #include "funciones.h" // se incluye el funciones.h
 
+
 int main()
 {
     int size = 10;
     int array[size];
     int array2[size];
+    int buscar = 0;
 
 
 
@@ -44,8 +46,16 @@ int main()
     mostrarVector(arraySuma,size);
     printf("\n\n");
 
+    printf("Ingrese el numero que desea buscar en el vector 1 (Ya ordenado): "); // Va a buscar en el array (recordar que array ahora está ordenado)
+    scanf("%d",&buscar);
+    printf("El numero %d se encuentra en la posicion %d (Si devuelve un -1, el numero no se encuentra)\n",buscar,buscarEnVector(array, size, buscar));
+
+
 
     return 0;
 }
+
+
+
 
 
