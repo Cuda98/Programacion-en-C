@@ -13,6 +13,7 @@ void bubbleSort(int v[], int tam);
 void selectionSort(int v[], int tam);
 void insertionSort(int v[], int tam);
 int buscarEnVector(int v[], int tam, int busco);
+int busquedaBinaria(int v[], int tam, int num);
 
 
 #endif // FUNCIONES_H_INCLUDED

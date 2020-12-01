@@ -3,6 +3,8 @@
 #include <time.h>
 #include "funciones.h" // se incluye el funciones.h
 
+int buscarEnVector(int v[], int tam, int busco);
+int busquedaBinaria(int v[], int tam, int num);
 
 int main()
 {
@@ -46,15 +48,23 @@ int main()
     mostrarVector(arraySuma,size);
     printf("\n\n");
 
+    printf("---BUSQUEDA SECUENCIAL---\n\n");
+
     printf("Ingrese el numero que desea buscar en el vector 1 (Ya ordenado): "); // Va a buscar en el array (recordar que array ahora está ordenado)
     scanf("%d",&buscar);
-    printf("El numero %d se encuentra en la posicion %d (Si devuelve un -1, el numero no se encuentra)\n",buscar,buscarEnVector(array, size, buscar));
+    printf("El numero %d se encuentra en la posicion %d (Si devuelve un -1, el numero no se encuentra)\n\n",buscar,buscarEnVector(array, size, buscar));
+
+
+    printf("\n---BUSQUEDA BINARIA---\n\n");
+
+    printf("Ingrese el numero que desea buscar en el vector 2 (Ya ordenado): "); // Va a buscar en el array (recordar que array ahora está ordenado)
+    scanf("%d",&buscar);
+    printf("El numero %d se encuentra en la posicion %d \n\n",buscar,busquedaBinaria(array2, size, buscar));
 
 
 
     return 0;
 }
-
 
 
 

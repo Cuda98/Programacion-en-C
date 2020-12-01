@@ -133,3 +133,33 @@ int buscarEnVector(int v[], int tam, int busco)
 
 return pos;
 }
+
+int busquedaBinaria(int v[], int tam, int num)
+{
+    int posInicial = 0;
+    int posFinal = 0;
+    int posCentral = 0;
+
+    posFinal = tam - 1;
+    while(posInicial <= posFinal)
+    {
+        posCentral = (posFinal + posInicial) / 2; // Va a actualizar la posCentral cada vez que vuelva a entrar al while
+        if(v[posCentral] == num)
+        {
+            return posCentral;
+        }
+        else
+        {
+            if(num>v[posCentral])
+            {
+                posInicial = posCentral + 1;
+            }
+            else
+            {
+                posFinal = posCentral -1;
+            }
+        }
+    }
+    return -1;
+}
+
