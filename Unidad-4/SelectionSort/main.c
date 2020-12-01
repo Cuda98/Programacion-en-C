@@ -34,15 +34,15 @@ void ordenamientoSeleccion(int array[6],int n)
 
     for(i=0; i< n-1; i++)
     {
-        min = i;
+        min = i; // min = 0
         for(j = i + 1; j < n; j++)
         {
-            if(array[min] > array[j])
+            if(array[j] < array[min])
                 min = j;
         }
-        tmp = array[min];
-        array[min] = array[i];
-        array[i] = tmp;
+        tmp = array[i];
+        array[i] = array[min];
+        array[min] = tmp;
     }
 }
 
@@ -53,3 +53,25 @@ void mostrarVector(int array[6], int n)
         printf("%d, ",array[i]);
     }
 }
+
+
+/*
+void ordenamientoSeleccion(int array[6],int n) // el min debe quedar en array[0]
+{
+    int i,j,min,tmp;
+
+    for(i=0; i< n-1; i++)
+    {
+        min = i; // min = 0
+        for(j = i + 1; j < n; j++)
+        {
+            if(array[min] > array[j])
+                min = j;
+        }
+        tmp = array[min];
+        array[min] = array[i];
+        array[i] = tmp;
+    }
+}
+*/
+
