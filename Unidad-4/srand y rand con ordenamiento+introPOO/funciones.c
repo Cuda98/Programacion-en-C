@@ -1,53 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-void mostrarVectorAleatorio(int v[], int tam);
-void cargarVectorAleatorio(int v[], int tam);
-int posMin(int v[], int tam);
-void sumaVectores(int v[], int v2[], int v3[], int tam);
-void mostrarVector(int v[], int tam);
-void bubbleSort(int v[], int tam);
-void selectionSort(int v[], int tam);
-
-int main()
-{
-    int size = 10;
-    int array[size];
-    int array2[size];
-
-
-
-    srand(time(NULL)); // Cada vez que ejecutemos el programa en un segundo distinto, genera numeros aleatorios distintos
-
-    printf("---VECTOR 1 ALEATORIO [-50 A 50]---");
-    cargarVectorAleatorio(array, size);
-    mostrarVectorAleatorio(array, size);
-
-    printf("---VECTOR 2 ALEATORIO [-50 A 50]---");
-    cargarVectorAleatorio(array2, size);
-    mostrarVectorAleatorio(array2, size);
-
-    printf("La posicion en donde se encuentra el numero minimo es: %d\n\n",posMin(array,size));
-
-    printf("La suma de array y array 2 da como resultado: ");
-    int arraySuma[size];
-    sumaVectores(array,array2,arraySuma,size);
-    mostrarVector(arraySuma,size);
-
-
-    printf("\n\nEl array 1 ordenado con Bubble Sort queda de la siguiente manera: ");
-    bubbleSort(array,size);
-    mostrarVector(array,size);
-    printf("\n\n");
-
-    printf("\n\nEl array 2 ordenado con Seleccion queda de la siguiente manera: ");
-    selectionSort(array2,size);
-    mostrarVector(array2,size);
-    printf("\n\n");
-
-    return 0;
-}
-
+#include "funciones.h"
 
 void mostrarVectorAleatorio(int v[], int tam)
 {
@@ -143,5 +97,23 @@ void selectionSort(int v[],int tam)
         tmp = v[i];
         v[i] = v[min];
         v[min] = tmp;
+    }
+}
+
+void insertionSort(int v[], int tam)
+{
+    int i, j, temp;
+
+    for(i=0; i<tam; i++)
+    {
+        temp = v[i];
+        j=i-1;
+        while(j>=0 && v[j] > temp)
+        {
+            v[j+1] = v[j];
+            j--;
+        }
+
+        v[j+1] = temp;
     }
 }
