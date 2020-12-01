@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606714376 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\strcat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1606715025 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\unidad 3\strcat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
