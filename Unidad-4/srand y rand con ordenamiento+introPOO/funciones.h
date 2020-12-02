@@ -12,7 +12,11 @@ void mostrarVector(int v[], int tam);
 void bubbleSort(int v[], int tam);
 void selectionSort(int v[], int tam);
 void insertionSort(int v[], int tam);
+//PRE: Tener un vector cargado, defino el dato a buscar
+//POST: Devuelve la posición del valor buscado, en caso de no encontrarlo, devuelve un -1
 int buscarEnVector(int v[], int tam, int busco);
+//PRE: Tener un vector cargado y ordenado
+//POST: Devuelve la posición del valor buscado
 int busquedaBinaria(int v[], int tam, int num);
 
 

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606878099 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\unidad 4\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
