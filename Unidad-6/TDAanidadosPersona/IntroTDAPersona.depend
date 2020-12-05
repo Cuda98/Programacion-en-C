@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1607152354 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\introtdapersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1607149730 c:\users\cuda\desktop\facultad11-4-2020\finalprog\introtdapersona\persona.h
+
+1607150335 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\introtdapersona\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1607150335 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\tdaanidadospersona\persona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+
+1607149730 c:\users\cuda\desktop\facultad11-4-2020\finalprog\tdaanidadospersona\persona.h
+
+1607154337 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\tdaanidadospersona\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"persona.h"
+	"materia.h"
+
+1607154314 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\tdaanidadospersona\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"persona.h"
+
+1607153333 c:\users\cuda\desktop\facultad11-4-2020\finalprog\tdaanidadospersona\materia.h
+
