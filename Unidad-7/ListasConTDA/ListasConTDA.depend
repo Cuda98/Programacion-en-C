@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1536251654 source:c:\temp\delete\prog\claselista\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+
+1536251654 c:\temp\delete\prog\claselista\listaenc.h
+
+1536251951 source:c:\temp\delete\prog\claselista\main.c
+	<stdlib.h>
+	"ListaEnc.h"
+
+1553459057 source:c:\users\cuda\desktop\programacion-de-computadoras-master\programacion-de-computadoras-master\unidad-8a-listas\codigos con listas\claselista\listaenc.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEnc.h"
+
+1553459057 c:\users\cuda\desktop\programacion-de-computadoras-master\programacion-de-computadoras-master\unidad-8a-listas\codigos con listas\claselista\listaenc.h
+
+1553459057 source:c:\users\cuda\desktop\programacion-de-computadoras-master\programacion-de-computadoras-master\unidad-8a-listas\codigos con listas\claselista\main.c
+	<stdlib.h>
+	"ListaEnc.h"
+
