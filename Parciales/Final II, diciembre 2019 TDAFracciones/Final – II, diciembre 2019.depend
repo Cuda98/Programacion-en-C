@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1607462627 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final – ii, diciembre 2019\fraccion.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1607462684 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final – ii, diciembre 2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1607462627 c:\users\cuda\desktop\facultad11-4-2020\finalprog\final – ii, diciembre 2019\fraccion.h
+
+1607454315 c:\users\cuda\desktop\facultad11-4-2020\finalprog\final – ii, diciembre 2019\fraccion.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1607464630 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final ii, diciembre 2019 tdafracciones\fraccion.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
+1607464764 c:\users\cuda\desktop\facultad11-4-2020\finalprog\final ii, diciembre 2019 tdafracciones\fraccion.h
+
+1607462748 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final ii, diciembre 2019 tdafracciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fraccion.h"
+
