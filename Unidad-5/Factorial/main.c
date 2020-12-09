@@ -7,8 +7,10 @@
 
 int main()
 {
-
-
+int x;
+printf("Ingrese un numero para calcular su factorial: ");
+scanf("%d",&x);
+printf("El factorial de %d es: %d",x,factorialR(x));
 
     return 0;
 }
@@ -22,7 +24,7 @@ int main()
 
 
 
-/*
+
  int factorialR(int n) // Supongamos que entra un 5
  {
     if(n == 1) // cuando n vale 1, devuelve. (esto sería el caso de corte-base), recordar que si no ponemos esto, la función no tiene límite.
@@ -33,7 +35,7 @@ int main()
     return n*factorialR(n-1);  //El retorno va a ser 5 * (Volver a llamar a la función) 5-1= 4
      // 5 * el numero que entró al principio - 1, 4* 4-1,
  }
-
+/*
 void mostrarHasta(int n)
  {  caso base  y se va a repetir hasta que el número sea un 0.
      if(n == 0)
