@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607481477 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final ii, diciembre 2019 3plestruct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
