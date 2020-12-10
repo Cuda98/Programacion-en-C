@@ -1,0 +1,20 @@
+Los datos de la matriz son: 
+9 13 8 
+2 9 5 
+
+El máximo en la matriz es: 13
+
+
+PROMEDIO POR MES
+-------------------
+
+El prom por mes es de: 5
+El prom por mes es de: 11
+El prom por mes es de: 6
+
+
+PROMEDIO POR KIOSKO
+-------------------
+
+El prom por kiosko es de: 10
+El prom por kiosko es de: 5
