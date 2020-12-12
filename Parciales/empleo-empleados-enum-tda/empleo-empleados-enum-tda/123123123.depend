@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1607579628 source:c:\users\nacho\desktop\prog\prac fin\123123123\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1607579628 c:\users\nacho\desktop\prog\prac fin\123123123\empleados.h
+
+1607579628 source:c:\users\nacho\desktop\prog\prac fin\123123123\empleo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+
+1607579636 c:\users\nacho\desktop\prog\prac fin\123123123\empleo.h
+	"empleados.h"
+
+1607579672 source:c:\users\nacho\desktop\prog\prac fin\123123123\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+
+1607625198 source:c:\users\nacho\desktop\final dic ej2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1607624972 c:\users\nacho\desktop\final dic ej2\empleados.h
+
+1607625198 source:c:\users\nacho\desktop\final dic ej2\empleo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+
+1607624995 c:\users\nacho\desktop\final dic ej2\empleo.h
+	"empleados.h"
+
+1607624869 source:c:\users\nacho\desktop\final dic ej2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+
+1607625198 source:c:\users\nacho\desktop\empleo-empleados-enum-tda\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1607624972 c:\users\nacho\desktop\empleo-empleados-enum-tda\empleados.h
+
+1607625198 source:c:\users\nacho\desktop\empleo-empleados-enum-tda\empleo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+
+1607624995 c:\users\nacho\desktop\empleo-empleados-enum-tda\empleo.h
+	"empleados.h"
+
+1607625278 source:c:\users\nacho\desktop\empleo-empleados-enum-tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleo.h"
+	"empleados.h"
+

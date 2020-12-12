@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1607446415 source:c:\users\braian\desktop\tdanotas\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1607446541 c:\users\braian\desktop\tdanotas\alumno.h
+
+1607446243 source:c:\users\braian\desktop\tdanotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.H"
+	"colegio.h"
+
+1607446389 source:c:\users\braian\desktop\tdanotas\colegio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colegio.h"
+	"alumno.h"
+
+1607448333 c:\users\braian\desktop\tdanotas\colegio.h
+
+1607446415 source:c:\users\cuda\desktop\tdanotas\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+
+1607446541 c:\users\cuda\desktop\tdanotas\alumno.h
+
+1607446389 source:c:\users\cuda\desktop\tdanotas\colegio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colegio.h"
+	"alumno.h"
+
+1607448333 c:\users\cuda\desktop\tdanotas\colegio.h
+
+1607446243 source:c:\users\cuda\desktop\tdanotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.H"
+	"colegio.h"
+
