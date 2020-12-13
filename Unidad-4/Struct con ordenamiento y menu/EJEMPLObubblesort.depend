@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1538704143 source:c:\users\cuda\desktop\facultad\programacionparcial2\ejemplobubblesort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538705054 source:d:\backup final\facultad\programacionparcial2\struct con 3ordenamientos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
