@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596483106 source:c:\users\cuda\desktop\nndeah\pruebadituvocales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1596483790 source:d:\backup final\programacionc\pruebadituvocales\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
