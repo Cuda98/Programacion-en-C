@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588054243 source:c:\users\cuda\desktop\nndeah\parcialito\main.c
+	<stdio.h>
+	<stdlib.h>
+
