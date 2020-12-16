@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1607981127 source:c:\users\nacho\desktop\fiiinal\final prog\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
+1607980740 c:\users\nacho\desktop\fiiinal\final prog\empresa.h
+
+1607981136 c:\users\nacho\desktop\fiiinal\final prog\empleado.h
+
+1607981127 source:c:\users\nacho\desktop\fiiinal\final prog\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
+1607980740 source:c:\users\nacho\desktop\fiiinal\final prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
+1607981127 source:c:\users\cuda\desktop\38841167_di alessio_martin\38841167_di alessio_martin\final prog\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
+1607980740 c:\users\cuda\desktop\38841167_di alessio_martin\38841167_di alessio_martin\final prog\empresa.h
+
+1607981136 c:\users\cuda\desktop\38841167_di alessio_martin\38841167_di alessio_martin\final prog\empleado.h
+
+1607981127 source:c:\users\cuda\desktop\38841167_di alessio_martin\38841167_di alessio_martin\final prog\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
+1607981766 source:c:\users\cuda\desktop\38841167_di alessio_martin\38841167_di alessio_martin\final prog\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empresa.h"
+	"empleado.h"
+
