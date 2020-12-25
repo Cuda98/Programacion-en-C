@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1607688744 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+
+1607688744 c:\users\cuda\desktop\facultad11-4-2020\finalprog\final\materia.h
+
+1607689238 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\final\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesor.h"
+
+1607689228 c:\users\cuda\desktop\facultad11-4-2020\finalprog\final\profesor.h
+
+1607694083 source:c:\users\cuda\desktop\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesor.h"
+
+1607693495 c:\users\cuda\desktop\final\materia.h
+
+1607694097 source:c:\users\cuda\desktop\final\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesor.h"
+
+1607692636 c:\users\cuda\desktop\final\profesor.h
+
+1607693131 source:c:\users\cuda\desktop\final\profesor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"profesor.h"
+
