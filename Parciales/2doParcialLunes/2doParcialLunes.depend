@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1572648437 source:c:\users\nico_\desktop\2doparciallunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1572646305 c:\users\nico_\desktop\2doparciallunes\empleado.h
+
+1572646236 source:c:\users\nico_\desktop\2doparciallunes\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1607320769 source:c:\users\cuda\desktop\2doparciallunes\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1572660396 c:\users\cuda\desktop\2doparciallunes\empleado.h
+
+1572660396 source:c:\users\cuda\desktop\2doparciallunes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
