@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606689551 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\ej4matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
