@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1606248107 source:c:\users\cuda\desktop\facultad11-4-2020\finalprog\mostrarparesdel0al20\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1606248247 source:c:\users\cuda\desktop\mostrarparesporentrada\main.c
-	<stdio.h>
-	<stdlib.h>
-
