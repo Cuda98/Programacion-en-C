@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1614031548 source:c:\users\cuda\desktop\facultad11-4-2020\finalprogfebrero2021\joaquin_cuda_40897210\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"carrera.h"
+
+1614031566 source:c:\users\cuda\desktop\facultad11-4-2020\finalprogfebrero2021\joaquin_cuda_40897210\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1614032054 c:\users\cuda\desktop\facultad11-4-2020\finalprogfebrero2021\joaquin_cuda_40897210\materia.h
+
+1614032054 c:\users\cuda\desktop\facultad11-4-2020\finalprogfebrero2021\joaquin_cuda_40897210\carrera.h
+
+1614031367 source:c:\users\cuda\desktop\facultad11-4-2020\finalprogfebrero2021\joaquin_cuda_40897210\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1614032054 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda_40897210\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1614032829 c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda_40897210\materia.h
+
+1614032828 c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda_40897210\carrera.h
+
+1614032827 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda_40897210\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1614032828 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda_40897210\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"carrera.h"
+
+1614032827 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda\carrera.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
+1614032829 c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda\materia.h
+
+1614032828 c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda\carrera.h
+
+1614033509 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"materia.h"
+	"carrera.h"
+
+1614032054 source:c:\users\cuda\desktop\joaquin_cuda_40897210\joaquin_cuda\materia.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"materia.h"
+	"carrera.h"
+
